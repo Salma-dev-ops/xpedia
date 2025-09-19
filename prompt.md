@@ -7,4 +7,5 @@
 - it is a school project
 - you can edit or give me a copiable text of the updated .sql file to make sure the project works well
 - we might need data to populate the database
+- we need  to use the REST APIs
 
